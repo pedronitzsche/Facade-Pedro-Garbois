@@ -1,0 +1,6 @@
+facade\Pedido.class
+facade\Estoque.class
+facade\PedidoFacade.class
+facade\Pagamento.class
+facade\Servico.class
+facade\Entrega.class
